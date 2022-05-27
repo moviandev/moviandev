@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Matheus.
 - 🔭 I’m currently working as Full-stack Developer
 - 🌱 I’m currently learning .Net Core C#
-- 👯 I’m looking to collaborate remote jobs
+- 👯 I’m looking to collaborate remote teams
 - 💬 Ask me about my experience and skills 
 - 📫 How to reach me: <a target="_blank" href="mailto:matheusoviana01@gmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
 - 😄 Pronouns: He/Him
