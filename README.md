@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .Net Core C#
 - 👯 I’m looking to collaborate remote jobs
 - 💬 Ask me about my experience and skills 
-- 📫 How to reach me: <a href="mailto:matheusoviana01@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
+- 📫 How to reach me: <a target="_blank" href="mailto:matheusoviana01@gmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I taught myself english and how to code.
 <div align="center">
@@ -32,7 +32,7 @@
 ##
   
 <div>
-  <a href = "mailto:matheusoviana01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusviana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href = "mailto:matheusoviana01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/matheusviana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
  
