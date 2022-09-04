@@ -5,7 +5,7 @@
 - 💬 Ask me about my experience and skills 
 - 📫 How to reach me: <a target="_blank" href="mailto:matheusoviana01@gmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I taught myself english and how to code, and I stopped drinking coffee but still a good programer 👨‍💻.
+- ⚡ Fun fact: I taught myself english and how to code 👨‍💻.
 <div align="center">
   <a href="https://github.com/moviandev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moviandev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
