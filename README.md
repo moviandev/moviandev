@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Matheus.
 - 🔭 I’m currently working as Full-stack Developer
-- 🌱 I’m currently learning .Net Core C#
+- 🌱 I’m currently learning Swift (iOS Development)
 - 👯 I’m looking to collaborate remote teams
 - 💬 Ask me about my experience and skills 
 - 📫 How to reach me: <a target="_blank" href="mailto:matheusoviana01@gmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
@@ -29,6 +29,7 @@
   <img align="center" alt="movian-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="movian-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="movian-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="movian-Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img align="center" alt="movian-Clojure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg">
 </div>
   
