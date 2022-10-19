@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Matheus.
-- 🔭 I’m currently working as Full-stack Developer
+- 🔭 I’m currently working as Full-stack Developer (Soon to be a mobile developer)
 - 🌱 I’m currently learning Swift (iOS Development)
 - 👯 I’m looking to collaborate remote teams
 - 💬 Ask me about my experience and skills 
