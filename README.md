@@ -1,9 +1,8 @@
 ## Hi there 👋, I'm Matheus a Full-stack developer and soon to be an iOS Developer
 - 🔭 I’m currently working as Full-stack Developer
-- 🌱 I’m currently learning Swift (iOS Development)
 - 👯 I’m looking to collaborate remote teams
 - 💬 Ask me about my experience and skills 
-- 📫 How to reach me: <a target="_blank" href="mailto:matheusoviana01@gmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
+- 📫 How to reach me: <a target="_blank" href="mailto:matheus_o_viana@hotmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I taught myself english and how to code 👨‍💻.
 
