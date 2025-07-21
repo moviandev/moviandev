@@ -6,11 +6,6 @@
 - 📫 How to reach me: <a target="_blank" href="mailto:matheusoviana01@gmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I taught myself english and how to code 👨‍💻.
-<div align="center">
-  <a href="https://github.com/moviandev">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moviandev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moviandev&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="movian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
