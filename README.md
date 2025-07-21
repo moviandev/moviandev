@@ -4,7 +4,7 @@
 - 💬 Ask me about my experience and skills 
 - 📫 How to reach me: <a target="_blank" href="mailto:matheus_o_viana@hotmail.com">Email</a> or <a target="_blank" href="https://www.linkedin.com/in/matheusviana/">Linkedin</a>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I taught myself english and how to code 👨‍💻.
+- ⚡ Fun fact: I taught myself english and how to code 👨‍💻 and I also can move the muscle we have on the scalp 🤷‍♂️.
 
 <div style="display: inline_block"><br>
    <img align="center" alt="movian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
