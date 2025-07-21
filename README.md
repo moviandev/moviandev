@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Matheus a Full-stack developer and soon to be an iOS Developer
+## Hi there 👋, I'm Matheus a Full-stack developer focused on Backend NodeJs
 - 🔭 I’m currently working as Full-stack Developer
 - 👯 I’m looking to collaborate remote teams
 - 💬 Ask me about my experience and skills 
